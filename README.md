@@ -81,13 +81,23 @@ Overall, this project demonstrates a basic computational workflow for analyzing 
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 rnase-i-sequence-analysis/
 │
-├── RNase_I_Sequence_Analysis.ipynb
 ├── README.md
+├── RNase_I_Sequence_Analysis.ipynb
+├── results/
+│   └── signalp_result.png
 └── .gitattributes
 ```
+
+* `RNase_I_Sequence_Analysis.ipynb` — Complete bioinformatics analysis workflow
+* `results/signalp_result.png` — SignalP-6.0 prediction result
+* `README.md` — Project documentation
+* `.gitattributes` — Git configuration
+
 
 ## Learning Outcomes
 
