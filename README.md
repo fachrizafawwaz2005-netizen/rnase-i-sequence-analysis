@@ -113,7 +113,7 @@ Through this project, I practiced:
 
 ## Author
 
-**Fachri Zafawwaz**
+**Fachriza fawwaz**
 
 Biomedical Engineering — Universitas Gadjah Mada
 
