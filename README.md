@@ -65,6 +65,12 @@ The predicted cleavage site is located between **positions 23 and 24**, with a p
 
 This prediction suggests that the protein contains an N-terminal signal peptide that may direct it through the **Sec-dependent secretion pathway**.
 
+### SignalP-6.0 Result
+
+![SignalP prediction result](results/signalp_result.png)
+
+The prediction suggests that the protein contains an N-terminal signal peptide that may direct it through the Sec-dependent secretion pathway.
+
 ## Interpretation
 
 The analysis identified an 807 bp RNase I gene encoding a 269-amino-acid protein. The nucleotide sequence has a GC content of approximately 51.18%.
